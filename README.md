@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Welcome to my github!
+
+I am a web developer.
+
+Check out my personal site at [jamesbaroi.com](https://www.jamesbaroi.com) hosted right here at the jamesbaroi.github.io repository.
+
+Contact me to collaborate!
 <!--
 **jamesbaroi/jamesbaroi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

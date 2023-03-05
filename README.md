@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Welcome to my github!
+### Welcome to my github!
 
 I am a web developer.
 

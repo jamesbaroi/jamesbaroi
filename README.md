@@ -2,7 +2,7 @@
 
 I am a web developer.
 
-Check out my personal site at [jamesbaroi.com](https://www.jamesbaroi.com) hosted right here on the jamesbaroi.github.io repository.
+Check out my personal site at [jamesbaroi.com](https://www.jamesbaroi.com) hosted right here on the [jamesbaroi.github.io](https://github.com/jamesbaroi/jamesbaroi.github.io) repository.
 
 Contact me to collaborate!
 

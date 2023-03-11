@@ -2,7 +2,7 @@
 
 I am a web developer.
 
-Check out my personal site at [jamesbaroi.com](https://www.jamesbaroi.com).
+Check out my personal site at [jamesbaroi.com](https://www.jamesbaroi.com) or its corresponding [repsitory](https://github.com/jamesbaroi/jamesbaroi.github.io).
 
 Contact me to collaborate!
 

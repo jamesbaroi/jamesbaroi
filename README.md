@@ -1,6 +1,6 @@
 ### Welcome to my github!
 
-I am a web developer.
+I am a full-stack, JavaScript web developer.
 
 Check out my personal site at [jamesbaroi.com](https://www.jamesbaroi.com) or its [repository](https://github.com/jamesbaroi/jamesbaroi.github.io).
 
